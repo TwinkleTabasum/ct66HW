@@ -1,0 +1,46 @@
+.body{
+	margin: 0;
+	padding: 0;
+}
+.a{
+  padding:5px;
+  
+}
+.b{
+  padding:5px;
+  
+}
+.c{
+  padding:5px;
+  
+}
+ul{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+	font-size: 30px;
+}
+.fa-circle-o{
+	color: #87B952;
+	
+}
+.fa-circle-o:hover{
+	color: #000;
+    font-size: 35px;
+}
+p{
+ text-align: center;
+}
+h2{
+	text-align: center;
+	color: #87B952;
+	text-transform: capitalize;
+}
+img{
+	text-align: center;
+	width:380px;
+	height:300px;
+}
